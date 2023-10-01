@@ -10,3 +10,5 @@ function show_magicians(magicians: string[]): void
 }
 
 show_magicians(magicianNames)
+
+export{}
